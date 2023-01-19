@@ -1,0 +1,44 @@
+.top-header-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.top-stories{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+h5{
+    font-size: 32px;
+    background-color: blue;
+    
+}
+.middle-box{
+    display: flex;
+    flex-direction: row;
+
+}
+.left-box{
+    display: flex;
+    flex-direction: column;
+}
+.middle-left-top{
+    display: flex;
+    flex-direction: column;
+}   
+.middle-left-bottom{
+    display: flex;
+    flex-direction: column;
+}
+.right-box{
+    display: flex;
+    flex-direction: column;
+
+}
+.footer-middle{
+    display: flex;
+    flex-direction: row;
+
+}
